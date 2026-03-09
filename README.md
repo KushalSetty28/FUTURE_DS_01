@@ -19,7 +19,7 @@ powerbi  power-query  dax  data-analytics  sales-dashboard  data-visualization  
 | Task Number | 01 |
 | Repository Name | FUTURE_DS_01 |
 | CIN ID | FIT/FEB26/DS13829 |
-| Intern | [Your Name] |
+| Intern | [Sai Kushal Bachu] |
 
 ---
 
