@@ -9,49 +9,73 @@ powerbi  power-query  dax  data-analytics  sales-dashboard  data-visualization  
 > and decision triggers.
 
 ---
-## Business Questions & Insights
 
-1. How is overall revenue performing over time?
-Ans.
+## 📈 Key Business Questions & Insights
+1️⃣ How is overall revenue performing over time?
+
+Answer
 Revenue shows a strong upward trend from 2010 to 2011, indicating rapid business growth.
-| Key Insights |
-Revenue increased significantly in 2011 compared to 2010.
-Sales peak toward the end of the year, indicating seasonal demand.
 
-2. Which months generate the highest sales?
-Ans.
-Sales peak during the final quarter of the year.
-| Key Insights |
-November records the highest revenue.
-Sales begin increasing from September and reach maximum levels in November and December.
+Key Insights
 
-3. Which countries contribute the most revenue?
-Ans.
-The majority of revenue comes from the United Kingdom.
-| Key Insights |
-The UK dominates overall sales.
-European countries such as Netherlands, Germany, and France contribute smaller but consistent revenue.
+Revenue increased significantly in 2011 compared to 2010
 
-4. Who are the most valuable customers?
-Ans.
-A small group of customers generates a large share of total revenue.
-| Key Insights |
-Top customers contribute significantly higher revenue than average customers.
-Retaining these high-value customers is critical for long-term growth.
+Sales peak toward the end of the year, indicating strong seasonal demand
 
-5. Which products are most frequently purchased?
-Ans.
-Certain products consistently appear in high quantities across invoices.
-| Key Insights |
-High-demand items drive large portions of sales volume.
-Maintaining inventory for popular products is essential.
+2️⃣ Which months generate the highest sales?
 
-6. What is the impact of product returns?
-Ans.
-Returns reduce overall revenue and indicate potential operational issues.
-| Key Insights |
-Returned orders appear as negative quantities or cancelled invoices.
-Monitoring return rates can help identify product or delivery issues.
+Answer
+Sales are highest during the final quarter of the year.
+
+Key Insights
+
+November records the highest revenue
+
+Sales begin rising in September and peak during November and December
+
+3️⃣ Which countries contribute the most revenue?
+
+Answer
+The United Kingdom contributes the majority of total revenue.
+
+Key Insights
+
+The UK dominates overall sales
+
+European markets such as Netherlands, Germany, and France contribute smaller but stable revenue
+
+4️⃣ Who are the most valuable customers?
+
+Answer
+A small group of customers generates a large portion of total revenue.
+
+Key Insights
+
+Top customers contribute significantly higher revenue than average customers
+
+Retaining high-value customers is critical for long-term business growth
+
+5️⃣ Which products are most frequently purchased?
+
+Answer
+Certain products appear consistently in large quantities across invoices.
+
+Key Insights
+
+High-demand products drive a large share of overall sales volume
+
+Maintaining inventory availability for popular products is essential
+
+6️⃣ What is the impact of product returns?
+
+Answer
+Product returns reduce overall revenue and may indicate operational issues.
+
+Key Insights
+
+Returns appear as negative quantities or cancelled invoices
+
+Monitoring return rates can help identify product quality or delivery issues
 
 ## 📁 Repository Info
 
