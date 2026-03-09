@@ -9,6 +9,74 @@ powerbi  power-query  dax  data-analytics  sales-dashboard  data-visualization  
 > and decision triggers.
 
 ---
+##Business Questions & Insights
+
+1. How is overall revenue performing over time?
+Answer
+Revenue shows a strong upward trend from 2010 to 2011, indicating rapid business growth.
+Key Insights
+Revenue increased significantly in 2011 compared to 2010.
+Sales peak toward the end of the year, indicating seasonal demand.
+
+2. Which months generate the highest sales?
+
+Answer
+
+Sales peak during the final quarter of the year.
+
+Key Insights
+
+November records the highest revenue.
+
+Sales begin increasing from September and reach maximum levels in November and December.
+
+3. Which countries contribute the most revenue?
+
+Answer
+
+The majority of revenue comes from the United Kingdom.
+
+Key Insights
+
+The UK dominates overall sales.
+
+European countries such as Netherlands, Germany, and France contribute smaller but consistent revenue.
+
+4. Who are the most valuable customers?
+
+Answer
+
+A small group of customers generates a large share of total revenue.
+
+Key Insights
+
+Top customers contribute significantly higher revenue than average customers.
+
+Retaining these high-value customers is critical for long-term growth.
+
+5. Which products are most frequently purchased?
+
+Answer
+
+Certain products consistently appear in high quantities across invoices.
+
+Key Insights
+
+High-demand items drive large portions of sales volume.
+
+Maintaining inventory for popular products is essential.
+
+6. What is the impact of product returns?
+
+Answer
+
+Returns reduce overall revenue and indicate potential operational issues.
+
+Key Insights
+
+Returned orders appear as negative quantities or cancelled invoices.
+
+Monitoring return rates can help identify product or delivery issues.
 
 ## 📁 Repository Info
 
