@@ -1,9 +1,9 @@
-# FUTURE_DS_01
+# Retail-Sales-Returns-Analytics-Dashboard
 NovaMart Global Sales | 3-tab Power BI dashboard | Power Query + DAX | Revenue risk &amp; returns analysis | FutureIntern #FUTURE_DS_01
 powerbi  power-query  dax  data-analytics  sales-dashboard  data-visualization  futureintern  internship  ecommerce-analytics  business-intelligence
-# FUTURE_DS_01 — NovaMart Global Sales Dashboard | Power BI
+#  NovaMart Global Sales Dashboard | Power BI
 
-> **FutureIntern Data Science & Analytics Track | Task 1**  
+> **Data Science & Analytics Track**  
 > A 3-tab executive sales intelligence dashboard built in Power BI,  
 > designed to surface not just performance metrics but business risk  
 > and decision triggers.
@@ -82,11 +82,6 @@ Monitoring return rates can help identify product quality or delivery issues
 | Field | Detail |
 |---|---|
 | Track | Data Science & Analytics |
-| Track Code | DS |
-| Task Number | 01 |
-| Repository Name | FUTURE_DS_01 |
-| CIN ID | FIT/FEB26/DS13829 |
-| Intern | [Sai Kushal Bachu] |
 
 ---
 
@@ -207,7 +202,7 @@ account for this.
 
 ## 📂 File Structure
 ```
-FUTURE_DS_01/
+retail-sales-returns-analytics-dashboard/
 │
 ├── NovaMart_GlobalSales.pbix        # Main Power BI file
 ├── /screenshots
@@ -224,9 +219,6 @@ FUTURE_DS_01/
 ## 👤 Author
 
 **[Sai Kushal Bachu]**
-CIN ID: FIT/FEB26/DS13829
-FutureIntern — Data Science & Analytics Track
-
 [www.linkedin.com/in/sai-kushal-bachu-b0a390269] 
 
 ---
